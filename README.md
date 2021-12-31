@@ -1,2 +1,2 @@
 # assignments
-Here are some of the assignments I have completed during my coding bootcamp 
+Here are some of the assignments that were used to teach me the concepts in the branches that they belong in
