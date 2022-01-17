@@ -1,0 +1,10 @@
+body {
+    margin: 0 auto;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: darkslategrey;
+    color: whitesmoke;
+}
+table {
+    width: 500px;
+}
